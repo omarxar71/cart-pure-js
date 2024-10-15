@@ -1,0 +1,18 @@
+ul li {
+    text-decoration: none;
+    list-style: none;
+}
+.content img{
+    width: 100px ;
+}
+.content ul li{
+    display: flex; 
+    align-items: center;
+    border: 1px solid black;
+    padding: 20px;
+}
+.content p{
+    text-align: center;
+    padding-left: 20px;
+    
+}
